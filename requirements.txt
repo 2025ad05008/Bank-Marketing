@@ -1,0 +1,32 @@
+
+# Used to create and run the Streamlit
+# machine learning prediction application.
+streamlit==1.61.1
+
+# Used for loading, cleaning, manipulating,and displaying the Bank Marketing dataset.
+pandas==2.2.2
+
+# Used for numerical calculations and arrays.
+numpy==2.0.2
+
+
+# Used to build, train, evaluate, and use the Machine Learning classification models:
+# Logistic Regression
+# Decision Tree
+# k-Nearest Neighbors
+# Naive Bayes
+# Random Forest
+scikit-learn==1.6.1
+
+
+# Used to save and load trained ML models,
+# scaler, and label encoders as .pkl files.
+joblib==1.5.3
+
+# Used for creating plots and visualizations
+# during model development and analysis.
+matplotlib==3.10.0
+
+# Used for statistical data visualization
+# during exploratory data analysis.
+seaborn==0.13.2
